@@ -47,7 +47,7 @@ export default class App extends Component {
 
 
 
-    /* Aqui e uma animação simples
+    // Aqui e uma animação simples
     Animated.timing(
       this.state.altura, {
       toValue: 300,
@@ -55,7 +55,7 @@ export default class App extends Component {
     }
     ).start();
   
-    */
+  
 
   }
   render() {
